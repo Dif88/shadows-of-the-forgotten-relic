@@ -943,10 +943,6 @@ Potential additions for expanded version:
 
 ---
 
-## 📄 License
-
-MIT License - Created for educational purposes
-
 ---
 
 ## 👥 Credits
@@ -956,27 +952,3 @@ MIT License - Created for educational purposes
 **Architecture:** Client-server with authoritative validation  
 **Design Constraint:** Secrecy/Incomplete Information
 
----
-
-## 📞 Support & Contact
-
-### Getting Help
-
-**For Technical Issues:**
-1. Check [Troubleshooting](#troubleshooting) section
-2. Review server and browser console logs
-3. Verify file structure matches documentation
-4. Ensure all dependencies installed (`npm install`)
-
-**For Game Questions:**
-1. Review [How to Play](#how-to-play) section
-2. Check [Game Mechanics](#game-mechanics) for detailed rules
-3. Watch debug panel for real-time info
-
-**For Network Issues:**
-1. Check network status indicator (top-right)
-2. Review [Network Protocol](#network-protocol) section
-3. Test on localhost first
-4. Check firewall settings
-
-### Quick Links
